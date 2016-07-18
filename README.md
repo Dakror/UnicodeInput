@@ -10,6 +10,7 @@ On key release, the unicode symbol will be placed where your current input focus
 
 `ctrl + alt + (1) + (F) + (6) + (0) + (2)` => 😂 (U+1F602)
 
+`ctrl + alt + (2) + (7) + (6) + (4)`=> ❤  (U+2764)
 ## Contribution
 Please report any bugs and share your ideas to improve this tiny program further 😊
 
