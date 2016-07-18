@@ -1,6 +1,8 @@
 # UnicodeInput
 A Simple Windows background program to write unicode characters like emojis. 
 Usable as macro system for programmable keyboards without a paste functionality (like my Corsair K95 😅)
+## Why?
+On windows, you can't really type Unicode characters that aren't directly linked to keys on your keyboard. With Alt + Numpad you get some symbols, but not a whole lot, and even with the Registry Modification to enable the Hex NumPad, you're still limited to 4 hex digits, so everything past U+FFFF is off limits. But if I want to macro emojis for usage in Whatsapp Web or the standalone version, I'm screwed. So that's why I wrote this little tool.
 
 ## Usage
 `ctrl + alt + NumPad: < Unicode Codepoint in HEX > `
